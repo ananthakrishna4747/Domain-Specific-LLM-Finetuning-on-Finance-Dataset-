@@ -1,0 +1,274 @@
+[
+    {
+      "Question": "What is the purpose of quantum-resistant cryptography?",
+      "Reference": [
+        "Quantum-resistant cryptography aims to protect sensitive information from potential breaches.",
+        "The development of quantum-resistant cryptography addresses the security risks posed by quantum computing.",
+        "Quantum-resistant cryptography safeguards data against cryptographic algorithm vulnerabilities caused by quantum computing."
+      ],
+      "Context": "Quantum computing could potentially break many of the cryptographic algorithms currently used to secure data, necessitating the development of quantum-resistant cryptography to protect sensitive information."
+    },
+    {
+      "Question": "What are the limitations of AI in writing?",
+      "Reference": [
+        "AI's writing limitations include its inability to significantly vary plot outcomes.",
+        "AI's writing capabilities often lack significant variation in plot outcomes.",
+        "The article highlights AI's struggle to vary plot outcomes effectively in writing."
+      ],
+      "Context": "The article explores the limitations of AI in writing, noting that while AI can generate diverse narratives, it often fails to significantly vary plot outcomes, highlighting the unique creative capabilities of human authors."
+    },
+    {
+      "Question": "What is discussed regarding setting a new precedent in literature?",
+      "Reference": [
+        "The discussion explores setting a new precedent for authors to have more control over adaptations of their works.",
+        "Harinder Sikka and Tarun Mehrishi discuss establishing a new precedent in literature.",
+        "Authors' increased control over adaptations of their works is discussed as a new precedent in literature."
+      ],
+      "Context": "Harinder Sikka and Tarun Mehrishi discuss setting a new precedent in literature, where authors can have more control over and reap greater benefits from the adaptations of their works."
+    },
+    {
+      "Question": "What are the ethical implications of gene editing technologies?",
+      "Reference": [
+        "The ethical implications include concerns about consent and unintended consequences.",
+        "Ethical concerns about gene editing technologies involve consent and potential unintended consequences.",
+        "The discussion covers the ethical boundaries of modifying human genes and the potential for unintended consequences."
+      ],
+      "Context": "The ethical implications of gene editing technologies discussed include concerns about consent, potential for unintended consequences, and the ethical boundaries of modifying human genes."
+    },
+    {
+        "Question": "What challenges does the adoption of electric vehicles face?",
+        "Reference": [
+        "The challenges include high initial costs, limited charging infrastructure, and concerns about battery life.",
+        "Challenges in electric vehicle adoption include high costs and limited charging infrastructure.",
+        "Electric vehicle adoption faces challenges like high costs and limited charging infrastructure."
+        ],
+        "Context": "The adoption of electric vehicles faces challenges such as high initial costs, limited charging infrastructure, concerns about battery life and range, and the need for improvements in technology to ensure wider consumer acceptance."
+    },
+    {
+        "Question": "What makes a total solar eclipse a unique event?",
+        "Reference": [
+        "A total solar eclipse is a rare celestial event that captures the attention of astronomers and the general public.",
+        "The total solar eclipse on April 8 offered a unique opportunity to study the sun's corona.",
+        "Total solar eclipses provide unique opportunities to study the sun's corona and its effects on the Earth's atmosphere and wildlife."
+        ],
+        "Context": "A total solar eclipse, a rare celestial event, occurred on April 8, capturing the attention of astronomers and the general public alike. This event offers a unique opportunity to study the sun's corona and the effects of such eclipses on the Earth's atmosphere and wildlife."
+    },
+    {
+        "Question": "How does technology contribute to modern education?",
+        "Reference": [
+        "Technology facilitates remote learning, enhances interactive experiences, and provides access to resources.",
+        "Modern education benefits from technology through remote learning and interactive experiences.",
+        "The critical role of technology in modern education includes facilitating remote learning and providing real-time feedback."
+        ],
+        "Context": "Technology plays a critical role in modern education by facilitating remote learning, enhancing interactive learning experiences, and providing access to a vast array of resources and real-time feedback."
+    },
+    {
+        "Question": "What does the rising trendline of Ambuja Cements suggest?",
+        "Reference": [
+        "The rising trendline suggests an ongoing uptrend and a potential dip-buying opportunity.",
+        "Ambuja Cements' rising trendline indicates an ongoing uptrend.",
+        "The rising trendline of Ambuja Cements suggests a dip-buying opportunity in a bullish market."
+        ],
+        "Context": "Ambuja Cements is observed at a rising trendline, suggesting a dip-buying opportunity in an ongoing uptrend, which could appeal to traders looking for entry points in a bullish market."
+    },
+    {
+        "Question": "What financial strategies are proposed for managing economic downturns?",
+        "Reference": [
+        "The article proposes diversifying investment portfolios, increasing savings rates, and prioritizing debt reduction.",
+        "Financial strategies for managing economic downturns include diversifying portfolios and increasing savings rates.",
+        "Managing economic downturns involves strategies like diversifying portfolios and prioritizing debt reduction."
+        ],
+        "Context": "The article proposes financial strategies for managing economic downturns, including diversifying investment portfolios, increasing savings rates, and prioritizing debt reduction to mitigate financial risks."
+    },
+    {
+        "Question": "How do small inventions contribute to technological development?",
+        "Reference": [
+        "'Nuts and Bolts' discusses how small inventions like nails and springs play crucial roles in developing complex technologies.",
+        "Small inventions like nails and springs have crucial roles in developing complex technologies.",
+        "The role of small inventions like nails and springs in technological development is discussed in 'Nuts and Bolts'."
+        ],
+        "Context": "'Nuts and Bolts' by Roma Agrawal discusses how small inventions like nails and springs have played crucial roles in the development of more complex technologies and machinery."
+    },
+    {
+        "Question": "What does 'Beyond Three Generations' highlight about family businesses in India's economy?",
+        "Reference": [
+        "'Beyond Three Generations' highlights the pivotal role of family businesses in India's economy.",
+        "The book discusses the unique challenges and strengths of family businesses in India's economy.",
+        "'Beyond Three Generations' explores the pivotal role of family businesses in India's economy, highlighting their challenges and strengths."
+        ],
+        "Context": "The book 'Beyond Three Generations' discusses the pivotal role family businesses play in India's economy, highlighting their unique challenges and strengths."
+    },
+    {
+        "Question": "How does technology improve renewable energy efficiency?",
+        "Reference": [
+        "Technology enhances renewable energy efficiency by improving energy capture, conversion, and storage capabilities.",
+        "Renewable energy efficiency is improved through technology advancements.",
+        "Technology advancements improve renewable energy efficiency by enhancing energy capture, conversion, and storage."
+        ],
+        "Context": "Technology enhances the efficiency of renewable energy sources by improving energy capture, conversion, and storage capabilities, making renewable energy more competitive with traditional energy sources."
+    },
+    {
+        "Question": "What does a Doji candlestick pattern indicate in technical analysis?",
+        "Reference": [
+        "A Doji candlestick pattern typically signals uncertainty in the market.",
+        "In technical analysis, a Doji candlestick pattern suggests market uncertainty.",
+        "Doji candlestick patterns often indicate uncertainty in price trends."
+        ],
+        "Context": "In technical analysis, a Doji candlestick pattern typically signals uncertainty in the market, often appearing at potential turning points in price trends."
+    },
+    {
+        "Question": "What are the challenges faced by scientists in marine biodiversity conservation?",
+        "Reference": [
+        "Scientists face challenges such as climate change, overfishing, and pollution.",
+        "Challenges in marine biodiversity conservation include climate change and overfishing.",
+        "The impact of climate change, overfishing, and pollution pose challenges to marine biodiversity conservation."
+        ],
+        "Context": "Challenges faced by scientists in the conservation of marine biodiversity include the impact of climate change on marine ecosystems, overfishing, and pollution, all of which threaten marine biodiversity."
+    },
+    {
+        "Question": "What does the book explore regarding cultural exchanges between India and the West?",
+        "Reference": [
+        "The book explores cultural exchanges through spirituality and philosophy.",
+        "Cultural exchanges between India and the West are explored through spirituality and philosophy.",
+        "Tracing historical roots and modern implications, the book explores cultural exchanges between India and the West."
+        ],
+        "Context": "The book explores cultural exchanges between India and the West through the lens of spirituality and philosophy, tracing the historical roots and modern implications."
+    },
+    {
+        "Question": "What role does the International Astronomical Union play in defining celestial bodies?",
+        "Reference": [
+        "The International Astronomical Union defines and classifies celestial bodies.",
+        "The IAU plays a crucial role in defining celestial bodies like Pluto.",
+        "Defining celestial bodies, including the planetary status of Pluto, is a key role of the International Astronomical Union."
+        ],
+        "Context": "The International Astronomical Union plays a crucial role in defining and classifying celestial bodies, including the ongoing debate over Pluto’s planetary status."
+    },      
+    {
+        "Question": "What insights does the book offer into the publishing process?",
+        "Reference": [
+        "The book provides insights into manuscript development, market distribution, and digital platforms.",
+        "Insights into the publishing process include manuscript development and digital platform roles.",
+        "The book offers new insights into manuscript development, market distribution, and the role of digital platforms."
+        ],
+        "Context": "The book offers new insights into the intricacies of the publishing process, from manuscript development to market distribution, emphasizing the role of digital platforms."
+    },
+    {
+        "Question": "What insights does research on neighborhood park rats offer?",
+        "Reference": [
+        "Research on neighborhood park rats contrasts human cognition with animal intelligence.",
+        "Insights from research on neighborhood park rats challenge assumptions about neurological uniqueness.",
+        "Research on neighborhood park rats offers insights into mammalian brain function and challenges assumptions about neurological uniqueness."
+        ],
+        "Context": "Research on neighborhood park rats offers insights into mammalian brain function, contrasting human cognition with animal intelligence and challenging assumptions about neurological uniqueness."
+    },
+    {
+        "Question": "What aspects of travel writing does Colin Thubron emphasize?",
+        "Reference": [
+        "Colin Thubron emphasizes the emotional and transformative aspects of travel writing.",
+        "Colin Thubron argues that travel writing conveys profound traveler experiences.",
+        "Travel writing, according to Colin Thubron, is about conveying profound traveler experiences."
+        ],
+        "Context": "Colin Thubron emphasizes the emotional and transformative aspects of travel writing, arguing that it is not just about describing places but about conveying the profound experiences of the traveler."
+    },
+    {
+        "Question": "What are the new applications of satellite data?",
+        "Reference": [
+        "New applications of satellite data include advanced weather forecasting and environmental monitoring.",
+        "Satellite data is used for advanced weather forecasting and GPS technology improvements.",
+        "Applications of satellite data include advanced weather forecasting, environmental monitoring, and GPS technology improvements."
+        ],
+        "Context": "New applications using satellite data include advanced weather forecasting, environmental monitoring, and improvements in GPS technology."
+    },      
+    {
+        "Question": "How does e-commerce impact traditional retail?",
+        "Reference": [
+        "E-commerce shifts consumer shopping habits towards online platforms.",
+        "E-commerce offers greater convenience and sometimes lower prices than traditional retail.",
+        "The impact of e-commerce on traditional retail includes shifting consumer habits to online platforms and posing challenges for physical stores."
+        ],
+        "Context": "E-commerce impacts traditional retail by shifting consumer shopping habits towards online platforms, which often offer greater convenience and sometimes lower prices, posing challenges for physical stores."
+    },
+    {
+        "Question": "What potential next steps may follow the Supreme Court's intervention in the EVM controversy?",
+        "Reference": [
+        "Potential next steps include setting stricter guidelines or enhanced monitoring.",
+        "Following the Supreme Court's intervention, potential next steps may involve setting stricter guidelines.",
+        "Setting stricter guidelines or enhanced monitoring could be potential next steps following the Supreme Court's intervention in the EVM controversy."
+        ],
+        "Context": "Following the Supreme Court's intervention in the EVM controversy, potential next steps may include setting stricter guidelines or enhanced monitoring to uphold electoral integrity."
+    },
+    {
+        "Question": "What does the outperformance of the Nifty Midcap 100 and Smallcap 100 indices indicate?",
+        "Reference": [
+        "The outperformance indicates investor interest and market dynamics specific to smaller cap stocks.",
+        "The Nifty Midcap 100 and Smallcap 100 indices outperforming larger indices suggest investor interest.",
+        "The Nifty Midcap 100 and Smallcap 100 indices' outperformance indicates specific market dynamics related to smaller cap stocks."
+        ],
+        "Context": "The Nifty Midcap 100 and Smallcap 100 indices outperformed larger indices, indicating investor interest and market dynamics specific to smaller cap stocks."
+    },
+    {
+        "Question": "How does bioinformatics contribute to modern medicine?",
+        "Reference": [
+        "Bioinformatics facilitates the analysis of large sets of biological data.",
+        "The role of bioinformatics in modern medicine includes understanding disease mechanisms.",
+        "In modern medicine, bioinformatics helps understand disease mechanisms and develop targeted therapies."
+        ],
+        "Context": "Bioinformatics plays a crucial role in modern medicine by facilitating the analysis of large sets of biological data, which helps in understanding disease mechanisms and developing targeted therapies."
+    },
+    {
+        "Question": "What do scientific predictions suggest about total solar eclipses?",
+        "Reference": [
+        "Scientific predictions indicate total solar eclipses will eventually cease due to Earth's orbit and lunar distance changes.",
+        "Total solar eclipses are predicted to cease due to gradual changes in Earth's orbit and lunar distance.",
+        "Total solar eclipses will eventually cease due to gradual changes in Earth's orbit and lunar distance, according to scientific predictions."
+        ],
+        "Context": "Scientific predictions indicate that total solar eclipses will eventually cease due to the gradual changes in Earth's orbit and lunar distance, providing a fascinating glimpse into the dynamic nature of celestial mechanics."
+    },
+    {
+        "Question": "How could personal satellite ownership democratize space technology?",
+        "Reference": [
+        "Personal satellite ownership could democratize space technology by making it more accessible.",
+        "The possibility of personal satellite ownership may democratize space technology by increasing accessibility.",
+        "Personal satellite ownership could democratize space technology, making it more accessible for personal and commercial applications."
+        ],
+        "Context": "The possibility of personal satellite ownership could democratize space technology, making it more accessible and encouraging innovation in personal and commercial applications."
+    },
+    {
+        "Question": "What advice did analysts provide regarding the Nifty 50?",
+        "Reference": [
+        "Analysts advised monitoring the 22,500 resistance level closely for the Nifty 50.",
+        "Monitoring the 22,500 resistance level for the Nifty 50 is advised by analysts.",
+        "Analysts recommended closely monitoring the 22,500 resistance level for the Nifty 50."
+        ],
+        "Context": "Analysts advised monitoring the 22,500 resistance level closely for the Nifty 50, as a decisive close above this could trigger further upward movement, impacting market dynamics."
+    },
+    {
+        "Question": "What is the trading strategy for ACC?",
+        "Reference": [
+        "The trading strategy for ACC involves an Iron Condor setup to capitalize on expected sideways movement.",
+        "ACC's trading strategy utilizes an Iron Condor setup to generate returns from expected sideways movement.",
+        "The trading strategy for ACC involves an Iron Condor setup to capitalize on the stock's expected sideways movement and generate returns."
+        ],
+        "Context": "The trading strategy for ACC involves an Iron Condor setup, capitalizing on the stock's expected sideways movement to generate returns."
+    },
+    {
+        "Question": "How are advancements in quantum computing expected to impact data security?",
+        "Reference": [
+          "Advancements in quantum computing are expected to significantly enhance data security.",
+          "Quantum computing advancements are anticipated to enhance data security significantly.",
+          "The development of virtually unbreakable encryption is expected with advancements in quantum computing."
+        ],
+        "Context": "Advancements in quantum computing are expected to significantly enhance data security by enabling the development of virtually unbreakable encryption."
+      },
+      {
+        "Question": "What innovations are included in renewable energy storage?",
+        "Reference": [
+          "Innovations in renewable energy storage include solid-state batteries and hydrogen fuel cells.",
+          "Renewable energy storage innovations involve solid-state batteries and hydrogen fuel cells.",
+          "The development of more efficient battery technologies and alternative storage solutions is included in renewable energy storage innovations."
+        ],
+        "Context": "Innovations in renewable energy storage include the development of more efficient battery technologies such as solid-state batteries and the use of alternative storage solutions like hydrogen fuel cells and pumped hydro storage."
+      }
+        
+]
+
