@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1000 434" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="glow" cx="50%" cy="0%" r="80%"><stop offset="0%" stop-color="#00FF88" stop-opacity="0.08"/><stop offset="100%" stop-color="#00FF88" stop-opacity="0"/></radialGradient>
+<pattern id="hex" width="56" height="100" patternUnits="userSpaceOnUse"><path d="M28 0 L56 16 L56 50 L28 66 L0 50 L0 16 Z" fill="none" stroke="rgba(255,255,255,0.025)" stroke-width="1"/></pattern>
+</defs>
+<rect width="1000" height="434" fill="#0B1220"/>
+<rect width="1000" height="434" fill="url(#hex)"/>
+<rect width="1000" height="434" fill="url(#glow)"/>
+<text x="500.0" y="38" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="20" font-weight="600" fill="#E2EAF5">Financial Document QA — RAG Pipeline</text>
+<rect x="80.0" y="90" width="168" height="92" rx="14" fill="#0F1728" stroke="#00D4FF" stroke-opacity="0.55" stroke-width="1.4"/>
+<rect x="80.0" y="90" width="168" height="4" rx="2" fill="#00D4FF"/>
+<text x="164.0" y="124" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#E2EAF5">Scrape financial</text>
+<text x="164.0" y="140" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#E2EAF5">articles</text>
+<text x="164.0" y="170" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9.5" fill="#7A8FA8">BeautifulSoup</text>
+<line x1="254.0" y1="136.0" x2="298.0" y2="136.0" stroke="#00D4FF" stroke-opacity="0.6" stroke-width="1.6"/>
+<path d="M 294.0,131.0 L 302.0,136.0 L 294.0,141.0 Z" fill="#00D4FF" fill-opacity="0.8"/>
+<rect x="304.0" y="90" width="168" height="92" rx="14" fill="#0F1728" stroke="#00FF88" stroke-opacity="0.55" stroke-width="1.4"/>
+<rect x="304.0" y="90" width="168" height="4" rx="2" fill="#00FF88"/>
+<text x="388.0" y="124" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#E2EAF5">Chunk + embed</text>
+<text x="388.0" y="170" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9.5" fill="#7A8FA8">Sentence-Transformers</text>
+<line x1="478.0" y1="136.0" x2="522.0" y2="136.0" stroke="#00FF88" stroke-opacity="0.6" stroke-width="1.6"/>
+<path d="M 518.0,131.0 L 526.0,136.0 L 518.0,141.0 Z" fill="#00FF88" fill-opacity="0.8"/>
+<rect x="528.0" y="90" width="168" height="92" rx="14" fill="#0F1728" stroke="#9B7BFF" stroke-opacity="0.55" stroke-width="1.4"/>
+<rect x="528.0" y="90" width="168" height="4" rx="2" fill="#9B7BFF"/>
+<text x="612.0" y="124" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#E2EAF5">FAISS vector index</text>
+<line x1="702.0" y1="136.0" x2="746.0" y2="136.0" stroke="#9B7BFF" stroke-opacity="0.6" stroke-width="1.6"/>
+<path d="M 742.0,131.0 L 750.0,136.0 L 742.0,141.0 Z" fill="#9B7BFF" fill-opacity="0.8"/>
+<rect x="752.0" y="90" width="168" height="92" rx="14" fill="#0F1728" stroke="#4A9EFF" stroke-opacity="0.55" stroke-width="1.4"/>
+<rect x="752.0" y="90" width="168" height="4" rx="2" fill="#4A9EFF"/>
+<text x="836.0" y="124" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#E2EAF5">Retrieve top-k</text>
+<text x="836.0" y="140" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#E2EAF5">chunks</text>
+<line x1="500.0" y1="188" x2="500.0" y2="246" stroke="#4A9EFF" stroke-opacity="0.5" stroke-width="1.6"/>
+<rect x="304.0" y="252" width="168" height="92" rx="14" fill="#0F1728" stroke="#00FF88" stroke-opacity="0.55" stroke-width="1.4"/>
+<rect x="304.0" y="252" width="168" height="4" rx="2" fill="#00FF88"/>
+<text x="388.0" y="286" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#E2EAF5">Answer generation</text>
+<text x="388.0" y="332" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="9.5" fill="#7A8FA8">GPT-3.5 / RoBERTa</text>
+<line x1="478.0" y1="298.0" x2="522.0" y2="298.0" stroke="#00FF88" stroke-opacity="0.6" stroke-width="1.6"/>
+<path d="M 518.0,293.0 L 526.0,298.0 L 518.0,303.0 Z" fill="#00FF88" fill-opacity="0.8"/>
+<rect x="528.0" y="252" width="168" height="92" rx="14" fill="#0F1728" stroke="#FFB547" stroke-opacity="0.55" stroke-width="1.4"/>
+<rect x="528.0" y="252" width="168" height="4" rx="2" fill="#FFB547"/>
+<text x="612.0" y="286" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#E2EAF5">Eval:</text>
+<text x="612.0" y="302" text-anchor="middle" font-family="Inter, sans-serif" font-size="12.5" font-weight="500" fill="#E2EAF5">ROUGE/BLEU/BERTScore</text>
+<rect x="0.5" y="0.5" width="999" height="433" rx="10" fill="none" stroke="rgba(255,255,255,0.12)"/>
+</svg>
