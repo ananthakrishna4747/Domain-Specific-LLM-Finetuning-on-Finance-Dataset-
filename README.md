@@ -1,5 +1,7 @@
 # Domain-Specific LLM Question Answering on Financial Data
 
+![Financial QA banner](docs/finllm-banner.jpg)
+
 A retrieval-augmented question-answering system over financial news and filings — built and benchmarked across three model choices (OpenAI GPT-3.5, a fine-tuned RoBERTa-large-SQuAD2, and a base Hugging Face QA pipeline) to compare retrieval quality and answer accuracy on finance-specific questions.
 
 > **Team project**, originally developed as *FinancialDataUsingLLM*. See [Contributors](#contributors) below for who built what.
