@@ -76,6 +76,13 @@ streamlit run main.py
 - **Meghana Reddy** ([@DasireddyMeghana](https://github.com/DasireddyMeghana)) — data scraping/preprocessing and the FAISS indexing system
 - **Anantha Krishna Chilappagari** ([@ananthakrishna4747](https://github.com/ananthakrishna4747)) — built the Streamlit application, integrated the Hugging Face model, implemented metric plotting and human-centric evaluation
 
+## Roadmap
+
+- [ ] Containerize with Docker (currently run via local `pip install` + Streamlit)
+- [ ] Lightweight FastAPI wrapper around the FAISS retriever for production-style serving instead of the Streamlit-only interface
+- [ ] GitHub Actions CI to re-run the ROUGE/BLEU/BERTScore evaluation on every change and flag regressions
+- [ ] Add a re-ranking stage between FAISS retrieval and answer generation to improve top-k precision
+
 ## License
 
 No license file is currently included in this repository — treat as personal/educational project code.
