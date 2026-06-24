@@ -18,6 +18,20 @@ Financial Q&A is a good stress test for RAG: terminology is domain-specific, sou
 - **Quantitative evaluation harness** comparing model outputs against reference answers using ROUGE, BLEU, and BERTScore
 - **Streamlit UI** for asking questions and visualizing evaluation metrics
 
+## User flow
+
+![User flow](docs/userflow.svg)
+
+### Example interaction *(illustrative — not a captured live session)*
+
+> **Analyst:** "Why did IT stocks dip this week?"
+>
+> **System:** "Based on retrieved coverage: IT stocks dipped following weaker-than-expected Q3 guidance from a major US client, with rupee appreciation adding pressure to export margins." *(grounded in 2 retrieved articles)*
+
+## Real-world application
+
+This is the same retrieval-grounded-QA pattern behind enterprise financial research copilots (the category Bloomberg's terminal-search and BloombergGPT sit in) — answer generation stays anchored to retrieved source text instead of the model's unsupported recall, which is exactly the property you want when the answer might inform a real financial decision. Benchmarking three generator backends side by side was the point of the exercise: cheaper/faster (HF pipeline) vs. more fluent (GPT-3.5) vs. domain-tuned (fine-tuned RoBERTa) is a real tradeoff teams have to make.
+
 ## Tech stack
 
 `Python` · `LangChain` · `FAISS` · `Sentence-Transformers` · `Hugging Face Transformers (RoBERTa)` · `OpenAI API` · `BeautifulSoup` · `Streamlit` · `Weights & Biases` (fine-tuning tracking)
